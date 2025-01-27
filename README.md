@@ -9,7 +9,12 @@ I'm a tech enthusiast with a passion for coding, Formula 1, and envisioning a fu
   - **Sports:** F1  
   - **Future Thinking:** I'm fascinated by concepts like The Network State, imagining a world where digital communication reshapes civic engagement.
 
-## What I'm Working On 🚀
+## What I'm Working On ![image](https://github.com/user-attachments/assets/a65ba669-f5a1-40ec-a43a-a19b58c621ef)
+
+
+![image](https://github.com/user-attachments/assets/0cb5456c-cba2-4a5b-901e-fec787897de5), ![image](https://github.com/user-attachments/assets/8d2a1a65-f1c4-4c4a-8460-98ce399bea33), 
+
+
 
 - **Digital Dialogues:** Inspired by the idea of The Network State, I'm working on projects that could facilitate open communication channels between citizens and the state, aiming for a more transparent and interactive democracy.
 
@@ -29,7 +34,8 @@ I'm a tech enthusiast with a passion for coding, Formula 1, and envisioning a fu
 I believe in crafting (generating) code that not only solves problems (weirdly) but also paves the way for future innovations in carpet textures. 
 
 ## Fun Fact 🎉
-- I once stared into the abyss.... not for me.
+- I once stared into the abyss.... not for me.  ![image](https://github.com/user-attachments/assets/b6e4fc35-5e98-4d2c-a62e-76cba5eb2c69)
+
 
 ---
 
